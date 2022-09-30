@@ -1,8 +1,8 @@
 #include <SoftwareSerial.h>
 #include <WiFiEsp.h>
 
-#define WIFI_RX 9
-#define WIFI_TX 10
+#define WIFI_RX 6
+#define WIFI_TX 7
 
 char ssid[] = "bongas";
 char pass[] = "linjerat";
